@@ -3,6 +3,10 @@
 - 🔭  Busco minha primeira experiência profissional.
 - 🌱  Estudando Python, JavaScript, HTML e CSS
 - 💬  Português-BR (Nativo) Inglês (Intermediário)
+- 📚  Cursando Análise e Desenvolvimento de Sistemas pela Insted Campo Grande, MS |
+- 
+
+
 
 <h2> Aprendendo/Learning</h2>
 <div align="left" style="display: inline_block"><br>
