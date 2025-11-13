@@ -4,7 +4,6 @@
 - 🌱  Estudando Python e C
 - 💬  Português-BR (Nativo) Inglês (Intermediário)
 - 📚  Cursando Análise e Desenvolvimento de Sistemas pela Insted Campo Grande, MS |
-- 
 
 
 
