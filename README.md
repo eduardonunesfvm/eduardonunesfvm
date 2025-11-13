@@ -1,4 +1,4 @@
-## Olá! Eu sou o Eduardo Nunes 👋
+## Olá! Eu sou o Eduardo Nunes 👋 / Hi I am Eduardo Nunes 👋
 
 - 🔭  Busco minha primeira experiência profissional.
 - 🌱  Estudando Python e C
