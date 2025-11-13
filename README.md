@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Eduardo Nunes 👋
 
 - 🔭  Busco minha primeira experiência profissional.
-- 🌱  Estudando Python, JavaScript, HTML e CSS
+- 🌱  Estudando Python e C
 - 💬  Português-BR (Nativo) Inglês (Intermediário)
 - 📚  Cursando Análise e Desenvolvimento de Sistemas pela Insted Campo Grande, MS |
 - 
