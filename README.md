@@ -1,6 +1,6 @@
 👋 Olá! Seja bem-vindo ao meu GitHub
 
-Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e desenvolvimento de software. Atualmente estou focado em me tornar um desenvolvedor back-end, com ênfase em Python e boas práticas de código.
+Me chamo Eduardo e sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e desenvolvimento de software. Atualmente estou focado em me tornar um desenvolvedor back-end, com ênfase em Python e boas práticas de código.
 
 Aqui você vai encontrar projetos que estou construindo para evoluir minhas habilidades e explorar diferentes áreas do desenvolvimento. Busco sempre aprender algo novo, melhorar a qualidade do código e entender como sistemas reais são estruturados.
 
