@@ -7,18 +7,15 @@ Aqui você vai encontrar projetos que estou construindo para evoluir minhas habi
 🚀 Tecnologias e ferramentas que estou estudando
 
 Python (POO, manipulação de arquivos)
-
 SQL e NoSQL
-
 Git & GitHub
-
 Estruturas de dados e boas práticas de programação
 
 📌 O que você vai ver por aqui
 
 Projetos acadêmicos e pessoais
 
-sistemas back-end
+Sistemas back-end
 
 Aplicações focadas em lógica, modularização e organização de código
 
