@@ -20,8 +20,25 @@
 ---
 
 ### Main skills:
-<div style="display: inline_block">
-  <img align="center" alt="Python" src="(https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;" />
-  <img align="center" alt="FastAPI" src="(https://img.shields.io/badge/-FastAPI-0D1117?style=for-the-badge&logo=fastapi&labelColor=0D1117)&nbsp;" />
-  <img align="center" alt="Git" src="(https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;" />
-</div><br/>
+
+<div align="left">
+
+  <div style="
+    background-color:#0d1117;
+    padding:16px;
+    border-radius:8px;
+    display:flex;
+    gap:8px;
+    flex-wrap:wrap;
+  ">
+    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
+  </div>
+</div>
+
+ 
+
+
