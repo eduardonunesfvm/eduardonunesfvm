@@ -20,12 +20,8 @@
 ---
 
 ### Main skills:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-
-### Tools:
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-
-### Other Knowledge (Studying):
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![FastAPI](https://img.shields.io/badge/-FastAPI-0D1117?style=for-the-badge&logo=fastapi&labelColor=0D1117)&nbsp;
+<div style="display: inline_block">
+  <img align="center" alt="Python" src="(https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;" />
+  <img align="center" alt="FastAPI" src="(https://img.shields.io/badge/-FastAPI-0D1117?style=for-the-badge&logo=fastapi&labelColor=0D1117)&nbsp;" />
+  <img align="center" alt="Git" src="(https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;" />
+</div><br/>
