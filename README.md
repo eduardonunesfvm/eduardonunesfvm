@@ -1,6 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E8B57&size=35&center=true&vCenter=true&width=1000&lines=Olá!;estudo+Análise+e+Desenvolvimento+de+Sistemas+na+faculdade+Insted;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+<h1>Olá! Me chamo Eduardo Nunes!</h1>
+  <h2>Sou um desenvolvedor com foco em sistemas web. Possuo conhecimentos em back-end com a linguagem Python utilizando o framework FastAPI. Atualmente, estudando front-end. Confira minhas habilidades logo abaixo!</h2>
 
 <h2 align="center"> Habilidades</h2>
 
