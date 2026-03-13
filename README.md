@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E8B57&size=35&center=true&vCenter=true&width=1000&lines=Olá!;Eu+estudo+Análise+e+Desenvolvimento+de+Sistemas+na+faculdade+Insted;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E8B57&size=35&center=true&vCenter=true&width=1000&lines=Olá!;estudo+Análise+e+Desenvolvimento+de+Sistemas+na+faculdade+Insted;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <h2 align="center"> Habilidades</h2>
 
