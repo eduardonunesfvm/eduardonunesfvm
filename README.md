@@ -46,7 +46,7 @@
 
 <div align="center">
 
-  <img width="49%" height="195px"
+  <img width="70%" height="195px"
     src="https://github-readme-stats-one-bice.vercel.app/api?username=eduardonunesfvm&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&title_color=2E8B57&icon_color=F8F8FF&text_color=F8F8FF&bg_color=0d1117"
     alt="GitHub stats (mirror one-bice)"
   />
