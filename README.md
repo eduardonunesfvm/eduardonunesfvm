@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
 
 <h1>Olá! Me chamo Eduardo Nunes!</h1>
-  <h2>Sou um desenvolvedor com foco em sistemas web. Possuo conhecimentos em back-end com a linguagem Python utilizando o framework FastAPI. Atualmente, estudando front-end. Confira minhas habilidades logo abaixo!</h2>
+  <h2>Sou um desenvolvedor com foco em sistemas web. Possuo conhecimento em back-end com a linguagem Python utilizando o framework FastAPI. Atualmente, estudando Python e tecnologias front-end. Confira minhas habilidades logo abaixo!</h2>
 
 <h2 align="center"> Habilidades</h2>
 
