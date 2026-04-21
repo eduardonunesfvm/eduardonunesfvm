@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
 
 # 💫 About Me:
-Sou um desenvolvedor com foco em sistemas web. Possuo conhecimento em back-end com a linguagem Python utilizando frameworks como FastAPI e Django. Atualmente, estudando conceitos e tecnologias full-stack.
+Sou um desenvolvedor com foco em sistemas web. Sou focado no desenvolvimento back-end com a linguagem Python utilizando frameworks como FastAPI e Django. Atualmente, estudando conceitos e tecnologias full-stack.
 
 
 ## 🌐 Socials:
