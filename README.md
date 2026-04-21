@@ -1,51 +1,33 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
 
-<h1 align="center">Olá! Me chamo Eduardo Nunes!</h1>
-  <h2>Sou um desenvolvedor com foco em sistemas web. Possuo conhecimento em back-end com a linguagem Python utilizando frameworks como FastAPI e Django. Atualmente, estudando conceitos e tecnologias full-stack. Confira minhas habilidades logo abaixo!</h2>
-
-<h2 align="center"> Habilidades</h2>
-
-<div align="center">
-
-  <div style="
-    background-color:#0d1117;
-    padding:16px;
-    border-radius:8px;
-    display:flex;
-    gap:8px;
-    flex-wrap:wrap;
-  ">
-    <h1>Tecnologias backend</h1>
-    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
-    <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white" />
-    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-    <h1>DataBase</h1>
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <h1>Tecnologias frontend</h1>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <h1>Versionamento</h1>
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
-  </div>
-</div>
-
-<br><br>
-
-<div align="center">
-
-  <img width="100%" height="195px"
-    src="https://github-readme-stats-one-bice.vercel.app/api?username=eduardonunesfvm&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&title_color=2E8B57&icon_color=F8F8FF&text_color=F8F8FF&bg_color=0d1117"
-    alt="GitHub stats (mirror one-bice)"
-  />
-</div>
+# 💫 About Me:
+Sou um desenvolvedor com foco em sistemas web. Possuo conhecimento em back-end com a linguagem Python utilizando frameworks como FastAPI e Django. Atualmente, estudando conceitos e tecnologias full-stack.
 
 
-<br>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eduardonunesfvm/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aeonszx2@gmail.com) 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardonunesfvm&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=eduardonunesfvm&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=eduardonunesfvm&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=eduardonunesfvm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>   
+
+
+---
+[![](https://komarev.com/ghpvc/?username=eduardonunesfvm&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
