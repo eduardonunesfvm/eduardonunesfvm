@@ -1,35 +1,101 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Eduardo%20Nunes&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Back-end%20Developer%20%7C%20Python%20%7C%20FastAPI%20%7C%20Django&descAlignY=55&descSize=16"/>
 
-# 💫 About Me:
-Sou um desenvolvedor com foco em sistemas web. Sou focado no desenvolvimento back-end com a linguagem Python utilizando frameworks como FastAPI e Django. Atualmente, estudando conceitos e tecnologias full-stack.
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+%F0%9F%90%8D;Apaixonado+por+Python+%26+APIs;Explorando+o+mundo+Full-stack+%F0%9F%9A%80;Sempre+aprendendo%2C+sempre+evoluindo+%E2%9C%A8)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardonunesfvm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aeonszx2@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=eduardonunesfvm&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=eduardonunesfvm&theme=dark&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=eduardonunesfvm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>   
-
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=eduardonunesfvm&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 Sobre mim
 
+```python
+class Eduardo:
+    def __init__(self):
+        self.name        = "Eduardo Nunes"
+        self.role        = "Back-end Developer"
+        self.focus       = ["Python", "FastAPI", "Django"]
+        self.learning    = ["Full-stack", "DevOps", "Cloud"]
+        self.interests   = ["APIs REST", "Arquitetura de sistemas", "Open Source"]
 
+    def say_hi(self):
+        print("Obrigado por visitar meu perfil! Vamos construir algo incrível juntos 🚀")
 
+me = Eduardo()
+me.say_hi()
+```
 
+---
 
+## 🌐 Redes sociais
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardonunesfvm)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aeonszx2@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardonunesfvm)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Back-end**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white&labelColor=gray)
+
+**Front-end**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Banco de dados & DevOps**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=eduardonunesfvm&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=eduardonunesfvm&theme=tokyonight&hide_border=true&layout=compact&langs_count=6"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=eduardonunesfvm&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardonunesfvm/eduardonunesfvm/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardonunesfvm/eduardonunesfvm/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/eduardonunesfvm/eduardonunesfvm/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=eduardonunesfvm&color=A855F7&style=for-the-badge&label=Visitas+ao+perfil)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
