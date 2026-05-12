@@ -46,27 +46,27 @@ me.say_hi()
 
 **Back-end**
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white&labelColor=gray)
+<img src="https://devicon-website.vercel.app/api/csharp/original.svg" width="50px"></img>
+<img src="https://devicon-website.vercel.app/api/python/original.svg" width="50px"> </img>
+<img src="https://devicon-website.vercel.app/api/fastapi/original.svg" width="45px"></img>
+<img src="https://devicon-website.vercel.app/api/django/plain.svg" width="45px"></img>
+
 
 **Front-end**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="50px"></img>
+<img src="https://devicon-website.vercel.app/api/html5/original.svg" width="50px"></img>
+<img src="https://devicon-website.vercel.app/api/css3/original-wordmark.svg" width="60px"></img>
 
 **Banco de dados & DevOps**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg" width="60px"></img>
+<img src="https://devicon-website.vercel.app/api/mongodb/original-wordmark.svg" width="65px"></img>
+<img src="https://devicon-website.vercel.app/api/docker/plain-wordmark.svg" width="65px"></img>
 
 **Estudando**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<img src="https://devicon-website.vercel.app/api/dotnetcore/original.svg" width="50px"></img>
 
 </div>
 
