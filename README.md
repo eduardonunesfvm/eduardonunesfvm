@@ -46,7 +46,6 @@ me.say_hi()
 
 **Back-end**
 
-<img src="https://devicon-website.vercel.app/api/csharp/original.svg" width="50px"></img>
 <img src="https://devicon-website.vercel.app/api/python/original.svg" width="50px"> </img>
 <img src="https://devicon-website.vercel.app/api/fastapi/original.svg" width="45px"></img>
 <img src="https://devicon-website.vercel.app/api/django/plain.svg" width="45px"></img>
@@ -61,12 +60,9 @@ me.say_hi()
 **Banco de dados & DevOps**
 
 <img src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg" width="60px"></img>
-<img src="https://devicon-website.vercel.app/api/mongodb/original-wordmark.svg" width="65px"></img>
+<img src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg" width="65px"></img>
 <img src="https://devicon-website.vercel.app/api/docker/plain-wordmark.svg" width="65px"></img>
 
-**Estudando**
-
-<img src="https://devicon-website.vercel.app/api/dotnetcore/original.svg" width="50px"></img>
 
 </div>
 
