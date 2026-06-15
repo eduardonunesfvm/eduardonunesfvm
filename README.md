@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+%F0%9F%90%8D;Apaixonado+por+Python+%26+APIs;Explorando+o+mundo+Full-stack+%F0%9F%9A%80;Sempre+aprendendo%2C+sempre+evoluindo+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+%F0%9F%90%8D;Apaixonado+por+Python+%26+APIs;Explorando+o+mundo+%F0%9F%9A%80;Sempre+aprendendo%2C+sempre+evoluindo+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,8 +15,8 @@ class Eduardo:
     def __init__(self):
         self.name        = "Eduardo Nunes"
         self.role        = "Back-end Developer"
-        self.focus       = ["Python", "FastAPI", "Django"]
-        self.learning    = ["Full-stack", "DevOps", "Cloud"]
+        self.focus       = ["Python", "FastAPI", "Django", "Docker"]
+        self.learning    = ["DevOps", "Cloud"]
         self.interests   = ["APIs REST", "Arquitetura de sistemas", "Open Source"]
 
     def say_hi(self):
