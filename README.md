@@ -15,8 +15,8 @@ class Eduardo:
     def __init__(self):
         self.name        = "Eduardo Nunes"
         self.role        = "Back-end Developer"
-        self.focus       = ["Python", "FastAPI", "Django", "Docker"]
-        self.learning    = ["DevOps", "Cloud"]
+        self.focus       = ["Python", "FastAPI", "Django", "RabbitMQ", "Docker"]]
+        self.front       = ["Javascript", "Typescript", "React", "Vue.JS"]
         self.interests   = ["APIs REST", "Arquitetura de sistemas", "Open Source"]
 
     def say_hi(self):
@@ -46,22 +46,25 @@ me.say_hi()
 
 **Back-end**
 
-<img src="https://devicon-website.vercel.app/api/python/original.svg" width="50px"> </img>
-<img src="https://devicon-website.vercel.app/api/fastapi/original.svg" width="45px"></img>
-<img src="https://devicon-website.vercel.app/api/django/plain.svg" width="45px"></img>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 **Front-end**
 
-<img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="50px"></img>
-<img src="https://devicon-website.vercel.app/api/html5/original.svg" width="50px"></img>
-<img src="https://devicon-website.vercel.app/api/css3/original-wordmark.svg" width="60px"></img>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 **Banco de dados & DevOps**
 
-<img src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg" width="60px"></img>
-<img src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg" width="65px"></img>
-<img src="https://devicon-website.vercel.app/api/docker/plain-wordmark.svg" width="65px"></img>
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 </div>
