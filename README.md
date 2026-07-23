@@ -15,7 +15,7 @@ class Eduardo:
     def __init__(self):
         self.name        = "Eduardo Nunes"
         self.role        = "Back-end Developer"
-        self.focus       = ["Python", "FastAPI", "Django", "RabbitMQ", "Docker"]]
+        self.focus       = ["Python", "FastAPI", "Django", "RabbitMQ", "Docker", "PostgreSQL", "MySQL"]
         self.front       = ["Javascript", "Typescript", "React", "Vue.JS"]
         self.interests   = ["APIs REST", "Arquitetura de sistemas", "Open Source"]
 
