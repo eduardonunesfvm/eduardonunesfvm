@@ -1,104 +1,87 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Eduardo%20Nunes&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Back-end%20Developer%20%7C%20Python%20%7C%20FastAPI%20%7C%20Docker&descAlignY=55&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Eduardo%20Nunes&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20Python%20%7C%20FastAPI%20%7C%20PostgreSQL&descAlignY=55&descSize=16" alt="Eduardo Nunes — Backend Developer"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+%F0%9F%90%8D;Apaixonado+por+Python+%26+APIs;Explorando+o+mundo+%F0%9F%9A%80;Sempre+aprendendo%2C+sempre+evoluindo+%E2%9C%A8)](https://git.io/typing-svg)
+[![English version](https://img.shields.io/badge/Read%20in-English-4F46E5?style=flat-square)](./README.en.md)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardonunesfvm)
+[![E-mail](https://img.shields.io/badge/E--mail-Contato-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aeonszx2@gmail.com)
 
 </div>
 
----
+## Olá, eu sou Eduardo
 
-## 👨‍💻 Sobre mim
+Sou **Backend Developer** e construo APIs e aplicações web com Python, FastAPI e PostgreSQL. Gosto de transformar regras de negócio em sistemas confiáveis, com atenção à consistência dos dados, segurança, testes e operação em produção.
 
-```python
-class Eduardo:
-    def __init__(self):
-        self.name        = "Eduardo Nunes"
-        self.role        = "Back-end Developer"
-        self.focus       = ["Python", "FastAPI", "Django", "Docker", "PostgreSQL", "MySQL"]
-        self.front       = ["Javascript", "Typescript", "React", "Vue.JS"]
-        self.interests   = ["APIs REST", "Arquitetura de sistemas"]
+Atualmente também colaboro com interfaces em Vue.js na SouJunior, ampliando minha visão do produto de ponta a ponta sem perder o foco profissional em backend.
 
-    def say_hi(self):
-        print("Obrigado por visitar meu perfil! Vamos construir algo incrível juntos 🚀")
+**Estou aberto a oportunidades como desenvolvedor backend Python.** Se você procura alguém que aprende rápido, investiga problemas a fundo e se preocupa com a qualidade da entrega, vamos conversar.
 
-me = Eduardo()
-me.say_hi()
-```
+## Projeto em destaque
 
----
+### [Sistema de Controle do Auditório](https://github.com/eduardonunesfvm/auditorio-sistema)
 
-## 🌐 Redes sociais
+Aplicação full-stack para administrar a agenda de um auditório institucional. O desafio central é garantir que duas pessoas não reservem o mesmo espaço no mesmo horário, mesmo quando as solicitações chegam simultaneamente.
 
-<div align="center">
+<a href="https://github.com/eduardonunesfvm/auditorio-sistema">
+  <img width="100%" src="https://raw.githubusercontent.com/eduardonunesfvm/auditorio-sistema/master/docs/interface.png" alt="Tela principal do Sistema de Controle do Auditório"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardonunesfvm)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aeonszx2@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardonunesfvm)
+- **Consistência sob concorrência:** validações na aplicação e `EXCLUDE CONSTRAINT` no PostgreSQL para impedir reservas sobrepostas.
+- **Segurança:** autenticação JWT, autorização por perfil e rate limiting atômico no Redis.
+- **Qualidade:** testes com Pytest, PostgreSQL real e Playwright, além de CI em múltiplos navegadores.
+- **Operação:** Docker, backups com restauração de teste e observabilidade com OpenTelemetry e Grafana Cloud.
+- **Experiência do usuário:** consulta de disponibilidade, linha do tempo, fluxo guiado e interface responsiva e acessível.
 
-</div>
+**Stack:** Python · FastAPI · SQLAlchemy · PostgreSQL · Redis · JavaScript · Docker · GitHub Actions · Playwright · OpenTelemetry
 
----
+[Explorar o código e a documentação](https://github.com/eduardonunesfvm/auditorio-sistema)
 
-## 🛠️ Tech Stack
+## Colaboração atual
 
-<div align="center">
+Na [SouJunior](https://github.com/SouJunior), contribuo com o [Stars](https://github.com/SouJunior/stars-webapp), um backoffice desenvolvido com Vue.js. Essa experiência fortalece minha capacidade de colaborar entre frontend e backend, entender fluxos completos e transformar requisitos de produto em interfaces funcionais.
 
-**Back-end**
+## Tecnologias
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+**Foco principal**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**Front-end**
+**Experiência complementar**
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Banco de dados & DevOps**
+## Outros projetos
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+| Projeto | O que demonstra | Tecnologias |
+|---|---|---|
+| [Pizza Delivery API](https://github.com/eduardonunesfvm/pizza-delivery-api) | API REST com autenticação JWT, pedidos e arquitetura em camadas | Python, FastAPI, PostgreSQL |
+| [StatDraft](https://github.com/eduardonunesfvm/statdraft) | Jogo de simulação com regras de domínio, máquina de estados e interface responsiva | React, TypeScript, Vite, Zustand |
 
-
-</div>
-
----
-
-## 📊 GitHub Stats
+## GitHub em números
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=eduardonunesfvm&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=eduardonunesfvm&theme=tokyonight&hide_border=true&layout=compact&langs_count=6"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=eduardonunesfvm&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🐍 Contribuições
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardonunesfvm/eduardonunesfvm/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardonunesfvm/eduardonunesfvm/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/eduardonunesfvm/eduardonunesfvm/output/github-snake.svg" />
-  </picture>
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=eduardonunesfvm&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Estatísticas do GitHub de Eduardo Nunes"/>
 </div>
 
 ---
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=eduardonunesfvm&color=A855F7&style=for-the-badge&label=Visitas+ao+perfil)
+### Vamos construir algo relevante juntos?
+
+[LinkedIn](https://linkedin.com/in/eduardonunesfvm) · [E-mail](mailto:aeonszx2@gmail.com) · [GitHub](https://github.com/eduardonunesfvm)
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
