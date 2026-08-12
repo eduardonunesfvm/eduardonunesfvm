@@ -23,7 +23,7 @@ Atualmente também colaboro com interfaces em Vue.js na SouJunior, ampliando min
 Aplicação full-stack para administrar a agenda de um auditório institucional. O desafio central é garantir que duas pessoas não reservem o mesmo espaço no mesmo horário, mesmo quando as solicitações chegam simultaneamente.
 
 <a href="https://github.com/eduardonunesfvm/auditorio-sistema">
-  <img width="100%" src="https://raw.githubusercontent.com/eduardonunesfvm/auditorio-sistema/master/docs/interface.png" alt="Tela principal do Sistema de Controle do Auditório"/>
+  <img width="100%" src="./assets/auditorio-sistema.png" alt="Tela atual do Sistema de Controle do Auditório em modo escuro"/>
 </a>
 
 - **Consistência sob concorrência:** validações na aplicação e `EXCLUDE CONSTRAINT` no PostgreSQL para impedir reservas sobrepostas.

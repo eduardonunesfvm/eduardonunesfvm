@@ -23,7 +23,7 @@ I currently also contribute to Vue.js interfaces at SouJunior, broadening my end
 A full-stack application for managing the schedule of an institutional auditorium. Its core challenge is ensuring that two people cannot book the same space at the same time, even when requests arrive concurrently.
 
 <a href="https://github.com/eduardonunesfvm/auditorio-sistema">
-  <img width="100%" src="https://raw.githubusercontent.com/eduardonunesfvm/auditorio-sistema/master/docs/interface.png" alt="Auditorium Management System main screen"/>
+  <img width="100%" src="./assets/auditorio-sistema.png" alt="Current Auditorium Management System screen in dark mode"/>
 </a>
 
 - **Consistency under concurrency:** application-level validation and a PostgreSQL `EXCLUDE CONSTRAINT` prevent overlapping bookings.
