@@ -70,8 +70,6 @@ Na [SouJunior](https://github.com/SouJunior), contribuo com o [Stars](https://gi
 | [Pizza Delivery API](https://github.com/eduardonunesfvm/pizza-delivery-api) | API REST com autenticação JWT, pedidos e arquitetura em camadas | Python, FastAPI, PostgreSQL |
 | [StatDraft](https://github.com/eduardonunesfvm/statdraft) | Jogo de simulação com regras de domínio, máquina de estados e interface responsiva | React, TypeScript, Vite, Zustand |
 
-## GitHub em números
-
 ### Vamos construir algo relevante juntos?
 
 [LinkedIn](https://linkedin.com/in/eduardonunesfvm) · [E-mail](mailto:edununesdeveloper@gmail.com) · [GitHub](https://github.com/eduardonunesfvm)
