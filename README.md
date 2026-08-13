@@ -72,16 +72,8 @@ Na [SouJunior](https://github.com/SouJunior), contribuo com o [Stars](https://gi
 
 ## GitHub em números
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=eduardonunesfvm&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Estatísticas do GitHub de Eduardo Nunes"/>
-</div>
-
----
-
-<div align="center">
-
 ### Vamos construir algo relevante juntos?
 
-[LinkedIn](https://linkedin.com/in/eduardonunesfvm) · [E-mail](mailto:aeonszx2@gmail.com) · [GitHub](https://github.com/eduardonunesfvm)
+[LinkedIn](https://linkedin.com/in/eduardonunesfvm) · [E-mail](mailto:edununesdeveloper@gmail.com) · [GitHub](https://github.com/eduardonunesfvm)
 
 </div>
