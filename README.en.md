@@ -1,44 +1,46 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Eduardo%20Nunes&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20Python%20%7C%20FastAPI%20%7C%20PostgreSQL&descAlignY=55&descSize=16" alt="Eduardo Nunes — Backend Developer"/>
+# Eduardo Nunes
 
-<div align="center">
+Backend developer focused on Python, FastAPI, Django, and PostgreSQL. I build reliable, testable, and secure APIs and systems, with attention to business rules, data consistency, and operations.
 
-[![Versão em português](https://img.shields.io/badge/Ler%20em-Português-4F46E5?style=flat-square)](./README.md)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardonunesfvm)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aeonszx2@gmail.com)
+I'm open to opportunities in Python backend development.
 
-</div>
+[LinkedIn](https://linkedin.com/in/eduardonunesfvm) · [Email](mailto:edununesdeveloper@gmail.com) · [Versão em português](./README.md)
 
-## Hi, I'm Eduardo
+## Featured professional project
 
-I'm a **Backend Developer** building APIs and web applications with Python, FastAPI, and PostgreSQL. I enjoy turning business rules into reliable systems, with close attention to data consistency, security, testing, and production operations.
+### Integra Saúde · Private project
 
-I currently also contribute to Vue.js interfaces at SouJunior, broadening my end-to-end product perspective while keeping backend development as my professional focus.
+A data centralization system for managing healthcare units, professionals, employment relationships, and costs in public healthcare.
 
-**I'm open to opportunities as a Python backend developer.** If you are looking for someone who learns quickly, investigates problems thoroughly, and cares about delivery quality, let's talk.
+- **Domain and consistency:** business rules for functional data, healthcare establishments, costs, and controlled synchronization.
+- **Security:** authentication, role-based access control, protected sessions, auditing, and attempt limiting.
+- **Quality and operations:** PostgreSQL, Redis, a synchronization worker, migrations, unit, integration, and browser tests, plus CI.
 
-## Featured project
+**Stack:** Python · FastAPI · PostgreSQL · Redis · SQLAlchemy · Alembic · Pytest · Playwright · Docker · GitHub Actions
+
+The code is private because it is part of a professional context.
+
+## Featured public project
 
 ### [Auditorium Management System](https://github.com/eduardonunesfvm/auditorio-sistema)
 
-A full-stack application for managing the schedule of an institutional auditorium. Its core challenge is ensuring that two people cannot book the same space at the same time, even when requests arrive concurrently.
+A full-stack application for managing an institutional auditorium schedule. Its core challenge is preventing overlapping bookings, including when requests arrive concurrently.
 
 <a href="https://github.com/eduardonunesfvm/auditorio-sistema">
-  <img width="100%" src="./assets/auditorio-sistema.png" alt="Current Auditorium Management System screen in dark mode"/>
+  <img width="100%" src="./assets/auditorio-sistema.png" alt="Auditorium Management System screen in dark mode"/>
 </a>
 
-- **Consistency under concurrency:** application-level validation and a PostgreSQL `EXCLUDE CONSTRAINT` prevent overlapping bookings.
-- **Security:** JWT authentication, role-based authorization, and atomic Redis rate limiting.
-- **Quality:** tests with Pytest, a real PostgreSQL instance, and Playwright, plus CI across multiple browsers.
-- **Operations:** Docker, backups with restore verification, and observability with OpenTelemetry and Grafana Cloud.
-- **User experience:** availability lookup, timeline visualization, a guided booking flow, and a responsive, accessible interface.
+- **Consistency and concurrency:** application-level validation and a PostgreSQL `EXCLUDE CONSTRAINT`.
+- **Security and quality:** JWT, role-based authorization, Redis rate limiting, Pytest, Playwright, and CI.
+- **Operations:** Docker, backup restore verification, and observability with OpenTelemetry and Grafana Cloud.
 
-**Stack:** Python · FastAPI · SQLAlchemy · PostgreSQL · Redis · JavaScript · Docker · GitHub Actions · Playwright · OpenTelemetry
+**Stack:** Python · FastAPI · SQLAlchemy · PostgreSQL · Redis · Docker · GitHub Actions · Playwright · OpenTelemetry
 
 [Explore the code and documentation](https://github.com/eduardonunesfvm/auditorio-sistema)
 
 ## Current collaboration
 
-At [SouJunior](https://github.com/SouJunior), I contribute to [Stars](https://github.com/SouJunior/stars-webapp), a back-office application built with Vue.js. This experience strengthens my ability to collaborate across frontend and backend, understand complete flows, and turn product requirements into functional interfaces.
+I contribute to [SouJunior's Stars project](https://github.com/SouJunior/stars-webapp), a back-office application built with Vue.js. This experience broadens my work across frontend and backend and my ability to turn product requirements into functional interfaces.
 
 ## Technologies
 
@@ -60,8 +62,6 @@ At [SouJunior](https://github.com/SouJunior), I contribute to [Stars](https://gi
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ## Other projects
 
@@ -70,18 +70,6 @@ At [SouJunior](https://github.com/SouJunior), I contribute to [Stars](https://gi
 | [Pizza Delivery API](https://github.com/eduardonunesfvm/pizza-delivery-api) | REST API with JWT authentication, order management, and layered architecture | Python, FastAPI, PostgreSQL |
 | [StatDraft](https://github.com/eduardonunesfvm/statdraft) | Simulation game with domain rules, a state machine, and a responsive interface | React, TypeScript, Vite, Zustand |
 
-## GitHub stats
+## Contact
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=eduardonunesfvm&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Eduardo Nunes's GitHub statistics"/>
-</div>
-
----
-
-<div align="center">
-
-### Let's build something meaningful together.
-
-[LinkedIn](https://linkedin.com/in/eduardonunesfvm) · [Email](mailto:aeonszx2@gmail.com) · [GitHub](https://github.com/eduardonunesfvm)
-
-</div>
+[LinkedIn](https://linkedin.com/in/eduardonunesfvm) · [edununesdeveloper@gmail.com](mailto:edununesdeveloper@gmail.com)
