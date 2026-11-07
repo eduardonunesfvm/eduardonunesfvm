@@ -1,54 +1,99 @@
-# Eduardo Nunes
+<div align="center">
 
-Desenvolvedor backend com foco em Python, FastAPI, Django e PostgreSQL. Construo APIs e sistemas confiáveis, testáveis e seguros, com atenção a regras de negócio, consistência de dados e operação.
+# EDUARDO NUNES
 
-Estou aberto a oportunidades em desenvolvimento backend Python.
+### Backend Python · FastAPI · PostgreSQL
 
-[LinkedIn](https://linkedin.com/in/eduardonunesfvm) · [E-mail](mailto:edununesdeveloper@gmail.com) · [Versão em inglês](./README.en.md)
+Construo sistemas que transformam regras de negócio complexas em operações confiáveis, seguras e rastreáveis.
 
-## Projeto profissional em destaque
+<a href="https://linkedin.com/in/eduardonunesfvm">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="mailto:edununesdeveloper@gmail.com">E-mail</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/eduardonunesfvm">GitHub</a>
 
-### Integra Saúde · Projeto privado
+</div>
 
-Sistema centralizador de dados para gestão de unidades, profissionais, vínculos funcionais e custos em saúde pública.
+<p align="center">
+  <img src="./assets/github-profile-banner.png" width="100%" alt="Eduardo Nunes — banner de perfil" />
+</p>
 
-- **Domínio e consistência:** regras de negócio para dados funcionais, estabelecimentos, custos e sincronizações controladas.
-- **Segurança:** autenticação, controle de acesso por perfil, sessões protegidas, auditoria e limitação de tentativas.
-- **Qualidade e operação:** PostgreSQL, Redis, worker de sincronização, migrations, testes unitários, integração e navegador, além de CI.
+<br>
 
-**Stack:** Python · FastAPI · PostgreSQL · Redis · SQLAlchemy · Alembic · Pytest · Playwright · Docker · GitHub Actions
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%"><strong>40+</strong><br><sub>unidades de saúde</sub></td>
+<td align="center" width="33%"><strong>GENESIS</strong><br><sub>plataforma municipal</sub></td>
+<td align="center" width="33%"><strong>54</strong><br><sub>testes no case público</sub></td>
+</tr>
+</table>
+</div>
 
-O código é privado por fazer parte de um contexto profissional.
+## Genesis
 
-## Projeto público em destaque
+<div align="center">
+
+### PLATAFORMA MUNICIPAL DE GESTÃO DA SAÚDE
+
+**Projeto profissional · código privado · mais de 40 unidades**
+
+</div>
+
+O **Genesis** centraliza a gestão operacional, funcional e financeira da rede municipal de saúde. A plataforma organiza dados críticos, acompanha valores e transforma processos sensíveis em fluxos digitais com controle, rastreabilidade e segurança.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3>Domínio</h3>
+Servidores, estabelecimentos, CNES, recursos humanos, alocação de pessoal, custos, competências, exportações e auditoria.
+</td>
+<td width="33%" valign="top">
+<h3>Confiabilidade</h3>
+Sincronização de dados oficiais, validação de planilhas, dry-run, checksum, aprovações e controles de versão.
+</td>
+<td width="33%" valign="top">
+<h3>Segurança</h3>
+Autenticação individual, sessões protegidas, Argon2id, CSRF, controle por papéis e rate limiting com Redis.
+</td>
+</tr>
+</table>
+
+**Stack principal:** Python · FastAPI · PostgreSQL · Redis · SQLAlchemy · Alembic · Pytest · Playwright · Docker · GitHub Actions
+
+## Case público
 
 ### [Sistema de Controle do Auditório](https://github.com/eduardonunesfvm/auditorio-sistema)
 
-Aplicação full-stack para administrar a agenda de um auditório institucional. O desafio central é impedir reservas sobrepostas, inclusive quando solicitações chegam simultaneamente.
+Aplicação full-stack para administrar a agenda de um auditório institucional. O problema central era impedir reservas sobrepostas, inclusive quando duas solicitações chegassem simultaneamente.
 
-<a href="https://github.com/eduardonunesfvm/auditorio-sistema">
-  <img width="100%" src="./assets/auditorio-sistema.png" alt="Tela do Sistema de Controle do Auditório em modo escuro"/>
-</a>
+| Engenharia | Implementação |
+|---|---|
+| Consistência | Regras na aplicação e `EXCLUDE CONSTRAINT` no PostgreSQL |
+| Segurança | JWT, autorização por perfil e rate limiting atômico no Redis |
+| Qualidade | 54 testes automatizados, PostgreSQL real, Playwright e CI |
+| Operação | Docker, backup com restauração de teste e OpenTelemetry |
 
-- **Consistência e concorrência:** validações na aplicação e `EXCLUDE CONSTRAINT` no PostgreSQL.
-- **Segurança e qualidade:** JWT, autorização por perfil, rate limiting no Redis, Pytest, Playwright e CI.
-- **Operação:** Docker, backups com restauração de teste e observabilidade com OpenTelemetry e Grafana Cloud.
+[Explorar código e documentação →](https://github.com/eduardonunesfvm/auditorio-sistema)
 
-**Stack:** Python · FastAPI · SQLAlchemy · PostgreSQL · Redis · Docker · GitHub Actions · Playwright · OpenTelemetry
+## Como eu trabalho
 
-[Explorar o código e a documentação](https://github.com/eduardonunesfvm/auditorio-sistema)
+**Entender o domínio** → levantar requisitos e mapear regras reais.
+
+**Construir com responsabilidade** → modelar dados, proteger acessos e testar os fluxos críticos.
+
+**Operar o resultado** → automatizar entrega, observar o sistema e manter a evolução segura.
 
 ## Colaboração atual
 
-Contribuo com o [projeto Stars da SouJunior](https://github.com/SouJunior/stars-webapp), um backoffice desenvolvido com Vue.js. Essa experiência amplia minha atuação entre frontend e backend e minha capacidade de transformar requisitos de produto em interfaces funcionais.
+Na [SouJunior](https://github.com/SouJunior), contribuo com o [Stars](https://github.com/SouJunior/stars-webapp), um backoffice desenvolvido com Vue.js. Essa experiência amplia minha atuação entre frontend e backend e meu entendimento de fluxos completos de produto.
 
 ## Tecnologias
 
-**Foco principal**
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -56,20 +101,27 @@ Contribuo com o [projeto Stars da SouJunior](https://github.com/SouJunior/stars-
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**Experiência complementar**
+</div>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+<details>
+<summary><strong>Experiência complementar</strong></summary>
+<br>
+
+JavaScript · TypeScript · Vue.js · React · Django · HTML5 · CSS3 · Railway · OpenTelemetry
+
+</details>
 
 ## Outros projetos
 
 | Projeto | O que demonstra | Tecnologias |
 |---|---|---|
-| [Pizza Delivery API](https://github.com/eduardonunesfvm/pizza-delivery-api) | API REST com autenticação JWT, pedidos e arquitetura em camadas | Python, FastAPI, PostgreSQL |
-| [StatDraft](https://github.com/eduardonunesfvm/statdraft) | Jogo de simulação com regras de domínio, máquina de estados e interface responsiva | React, TypeScript, Vite, Zustand |
+| [Pizza Delivery API](https://github.com/eduardonunesfvm/pizza-delivery-api) | API REST, autenticação JWT e arquitetura em camadas | Python · FastAPI · PostgreSQL |
+| [StatDraft](https://github.com/eduardonunesfvm/statdraft) | Regras de domínio, máquina de estados e interface responsiva | React · TypeScript · Vite · Zustand |
 
-## Contato
+<div align="center">
 
-[LinkedIn](https://linkedin.com/in/eduardonunesfvm) · [edununesdeveloper@gmail.com](mailto:edununesdeveloper@gmail.com)
+### Aberto a oportunidades em desenvolvimento backend Python.
+
+<a href="https://linkedin.com/in/eduardonunesfvm">Vamos conversar →</a>
+
+</div>
